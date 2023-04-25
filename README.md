@@ -1,5 +1,7 @@
 # Hommage-a-confucius
-Blender files of the famous art structure named "Hommage à confucius" of Montpellier 
+Fichiers blender de la célèbre status "Hommage à confucius" de Montpellier.
+
+Ces fichier permettent l'impression d'une status de cette oeuvre d'art
 
 # Discours en son hommage
 Confucius, né en 551 av. J.-C., était un philosophe et penseur chinois qui a eu une influence majeure sur la culture, la politique et la société chinoises. Il est connu pour sa sagesse, son éthique et ses enseignements sur la vertu, l'éducation et la gouvernance. 
